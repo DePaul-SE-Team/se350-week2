@@ -185,13 +185,3 @@ Answer each question in two or three sentences:
 4. What did the merge operation do?
 5. Why did this exercise use `--no-ff`?
 6. How does the graph show that a branch was merged?
-
-### Submission
-
-Submit:
-
-* The completed `student-info.txt` file.
-* The output of `git log --oneline --graph --decorate --all`.
-* The final output of `git status`.
-* Your answer to the question from Part 1, Step 3.
-* Your answers to the reflection questions.
