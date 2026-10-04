@@ -6,6 +6,7 @@ Before you start this activity, please complete activity for
 - https://github.com/DePaul-SE-Team/se350-week2/blob/main/Git-Exericise.md
 - https://github.com/DePaul-SE-Team/se350-week2/blob/main/Maven-Practice.md
 - https://github.com/DePaul-SE-Team/se350-week2/blob/main/JUnit-Setup-IntelliJ.md
+- https://github.com/DePaul-SE-Team/se350-week2/blob/main/JaCoCo-instruction.md
 
 In this activity, you will design and implement tests for the provided **source under test (SUT)** using its specification.
 
